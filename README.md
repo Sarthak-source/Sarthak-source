@@ -5,7 +5,7 @@
 - 👀 I’m interested in developing innovative web and mobile applications.
 - 🌱 I’m currently learning advanced concepts in Flutter and React.
 - 💞️ I’m looking to collaborate on exciting projects that make a difference.
-- 📫 How to reach me: [https://www.linkedin.com/in/sarthak-gowda-290456192/]
+- 📫 How to reach me: https://www.linkedin.com/in/sarthak-gowda-290456192/
 
 ---
 
