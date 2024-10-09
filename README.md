@@ -10,7 +10,6 @@ I am a developer with 3 years of experience specializing in Dart and React. I'm 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-source&theme=tokyonight)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Sarthak-source/Sarthak-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
